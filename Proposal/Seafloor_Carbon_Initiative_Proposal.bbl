@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[plo(1961)]{plowshare1961}
+\emph{Project Plowshare: The Development of the Peaceful Uses of Nuclear
+  Explosives}.
+\newblock U.S. Atomic Energy Commission, 1961.
+
+\bibitem[Beerling et~al.(2020)Beerling, Kantzas, Lomas, Wade, Eufrasio,
+  Renforth, Sarkar, Andrews, James, Pearce, Mercure, Pollitt, Holden, Edwards,
+  Khanna, Koh, Quegan, Pidgeon, Janssens, Hansen, and
+  Banwart]{enhanced_rock_weathering}
+David~J. Beerling, Euripides~P. Kantzas, Mark~R. Lomas, Peter Wade, Rafael~M.
+  Eufrasio, Phil Renforth, Binoy Sarkar, M.~Grace Andrews, Rachael~H. James,
+  Christopher~R. Pearce, Jean-Francois Mercure, Hector Pollitt, Philip~B.
+  Holden, Neil~R. Edwards, Madhu Khanna, Lenny Koh, Shaun Quegan, Nick~F.
+  Pidgeon, Ivan~A. Janssens, James Hansen, and Steven~A. Banwart.
+\newblock Potential for large-scale co2 removal via enhanced rock weathering
+  with croplands.
+\newblock \emph{Nature}, 583\penalty0 (7815):\penalty0 242--248, Jul 2020.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-020-2448-9}.
+\newblock URL \url{https://doi.org/10.1038/s41586-020-2448-9}.
+
+\bibitem[IPCC(2018)]{ipcc2018}
+IPCC.
+\newblock Global warming of 1.5 degree c, special report.
+\newblock Intergovernmental Panel on Climate Change (IPCC), 2018.
+\newblock \url{https://www.ipcc.ch/sr15/}.
+
+\bibitem[Narayanan()]{tsar_bomba}
+Surya Narayanan.
+\newblock The tsar bomba.
+
+\bibitem[Pacala and Socolow(2004)]{pacala2004}
+S.~Pacala and R.~Socolow.
+\newblock Stabilization wedges: Solving the climate problem for the next 50
+  years with current technologies.
+\newblock \emph{Science}, 305\penalty0 (5686):\penalty0 968--972, 2004.
+\newblock \doi{10.1126/science.1100103}.
+
+\bibitem[Pozzer et~al.(2024)Pozzer, Steffens, Proestos, Sciare, Akritidis,
+  Chowdhury, Burkart, and Bacer]{climate_change_kill_millions}
+Andrea Pozzer, Brendan Steffens, Yiannis Proestos, Jean Sciare, Dimitris
+  Akritidis, Sourangsu Chowdhury, Katrin Burkart, and Sara Bacer.
+\newblock Atmospheric health burden across the century and the accelerating
+  impact of temperature compared to pollution.
+\newblock \emph{Nature Communications}, 15\penalty0 (1):\penalty0 9379, Oct
+  2024.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/s41467-024-53649-9}.
+\newblock URL \url{https://doi.org/10.1038/s41467-024-53649-9}.
+
+\bibitem[{Ram Chandar} et~al.(2016){Ram Chandar}, Deo, and
+  Baliga]{basalt_crushing_work_index}
+Karra {Ram Chandar}, Subodh~N. Deo, and Ashwin~J. Baliga.
+\newblock Prediction of bond's work index from field measurable rock
+  properties.
+\newblock \emph{International Journal of Mineral Processing}, 157:\penalty0
+  134--144, 2016.
+\newblock ISSN 0301-7516.
+\newblock \doi{https://doi.org/10.1016/j.minpro.2016.10.006}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0301751616302319}.
+
+\bibitem[Rockstr{\"o}m et~al.(2009)Rockstr{\"o}m, Steffen, Noone,
+  et~al.]{rockstrom2009}
+J.~Rockstr{\"o}m, W.~Steffen, K.~Noone, et~al.
+\newblock A safe operating space for humanity.
+\newblock \emph{Nature}, 461:\penalty0 472--475, 2009.
+\newblock \doi{10.1038/461472a}.
+
+\bibitem[Schuiling and Krijgsman(2006)]{schuiling2006}
+R.~D. Schuiling and P.~Krijgsman.
+\newblock Enhanced weathering: An effective and cheap tool to sequester
+  co\textsubscript{2}.
+\newblock \emph{Climatic Change}, 74:\penalty0 349--354, 2006.
+
+\bibitem[Stern(2007)]{stern2007}
+Nicholas Stern.
+\newblock \emph{The Economics of Climate Change: The Stern Review}.
+\newblock Cambridge University Press, 2007.
+
+\end{thebibliography}
